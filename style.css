@@ -604,7 +604,7 @@ a:active {
   top: 0;
   right: 0;
   position: fixed;
-  background: url(img/logob.png) right 150% no-repeat;
+  background: url() right 150% no-repeat;
   background-size: 40% 40%;
   background-attachment: fixed;
   width: 100%;
